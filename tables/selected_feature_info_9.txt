@@ -1,0 +1,53 @@
+	ICD_code	long_title	AL	G1	G2	G3
+0	n/a	GENDER	O	O	O	O
+15	311	Depressive disorder, not elsewhere classified	O	O	O	O
+33	V5861	Long-term (current) use of anticoagulants	O	O	O	O
+32	V4582	Percutaneous transluminal coronary angioplasty status	O	O	O	O
+31	V4581	Aortocoronary bypass status	O	O	O	O
+30	V1582	Personal history of tobacco use	O	O	O	O
+29	V1254	Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits	O	O	O	O
+27	5990	Urinary tract infection, site not specified	O	O	O	O
+1	n/a	AGE	O	O	O	O
+25	53081	Esophageal reflux	O	O	O	O
+24	496	Chronic airway obstruction, not elsewhere classified	O	O	O	O
+22	486	Pneumonia, organism unspecified	O	O	O	O
+21	42731	Atrial fibrillation	O	O	O	O
+20	41401	Coronary atherosclerosis of native coronary artery	O	O	O	O
+19	412	Old myocardial infarction	O	O	O	O
+26	5849	Acute kidney failure, unspecified	O	O	O	O
+4	25000	Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled	O	O	O	O
+12	30000	Anxiety state, unspecified	O	O	O	O
+11	2859	Anemia, unspecified	O	O	O	O
+7	2724	Other and unspecified hyperlipidemia	O	O	O	O
+6	2720	Pure hypercholesterolemia	O	O	O	O
+3	2449	Unspecified acquired hypothyroidism	O	O	O	O
+16	32723	Obstructive sleep apnea (adult)(pediatric)	O	O	O	
+44	V103	Personal history of malignant neoplasm of breast	O		O	O
+43	73300	Osteoporosis, unspecified	O		O	O
+41	60000	Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)	O		O	O
+40	4241	Aortic valve disorders	O		O	O
+39	41400	Coronary atherosclerosis of unspecified type of vessel, native or graft	O		O	O
+38	2851	Acute posthemorrhagic anemia	O		O	O
+36	2749	Gout, unspecified	O		O	O
+35	V5867	Long-term (current) use of insulin	O	O	O	
+34	V5866	Long-term (current) use of aspirin	O	O	O	
+8	2761	Hyposmolality and/or hyponatremia	O	O		O
+9	27800	Obesity, unspecified	O	O	O	
+23	49390	Asthma, unspecified type, unspecified	O	O	O	
+14	3051	Tobacco use disorder	O	O	O	
+42	71590	Osteoarthrosis, unspecified whether generalized or localized, site unspecified	O			O
+37	27651	Dehydration	O			O
+18	3572	Polyneuropathy in diabetes		O	O	
+45	V1251	Personal history of venous thrombosis and embolism			O	
+50	V1083	Personal history of other malignant neoplasm of skin				O
+49	V1046	Personal history of malignant neoplasm of prostate				O
+48	56400	Constipation, unspecified				O
+47	42789	Other specified cardiac dysrhythmias				O
+46	3659	Unspecified glaucoma				O
+5	25060	Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled		O		
+2	07054	Chronic hepatitis C without mention of hepatic coma		O		
+13	3004	Dysthymic disorder		O		
+10	27801	Morbid obesity		O		
+28	78659	Other chest pain		O		
+17	33829	Other chronic pain		O		
+51	V4364	Hip joint replacement				O

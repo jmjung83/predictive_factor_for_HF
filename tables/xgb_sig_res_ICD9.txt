@@ -1,0 +1,39 @@
+	code	name	AL	G1	G2	G3
+0	42731	Atrial fibrillation	0.04862954942509532	0.06233310723118484	0.03750691737793386	0.03032167924195528
+1	41401	Coronary atherosclerosis of native coronary artery	0.04019493631273508	0.052535133123397824	0.03165125447884202	0.027184421034529806
+2	3572	Polyneuropathy in diabetes		0.05149087253259495	0.026392601439729334	
+3	V4581	Aortocoronary bypass status	0.04618258302193135	0.05003060159273445	0.038530479850713166	0.035342759849503635
+4	4241	Aortic valve disorders	0.0411382688973099		0.02549315627431497	0.0423522861469537
+5	25060	Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled		0.03849241642490961		
+6	V5867	Long-term (current) use of insulin	0.037785275796428326	0.03713382673729211	0.038432713360525665	
+7	41400	Coronary atherosclerosis of unspecified type of vessel, native or graft	0.03797741937637329		0.032640480599366126	0.0367918318901211
+8	27801	Morbid obesity		0.03645798244420439		
+9	07054	Chronic hepatitis C without mention of hepatic coma		0.035601733073592184		
+10	V4582	Percutaneous transluminal coronary angioplasty status			0.026157170886173843	0.03289323526062071
+11	3051	Tobacco use disorder			0.032788567004725336	
+12	5849	Acute kidney failure, unspecified	0.02566145081166178	0.02932410986442119	0.032015134125947954	0.025808931074105205
+13	412	Old myocardial infarction	0.02755496227927506		0.031653957742266356	
+14	2859	Anemia, unspecified			0.031595882304944096	0.026513763357885183
+15	V5866	Long-term (current) use of aspirin	0.03156508955731988		0.030284144033677875	
+16	V1251	Personal history of venous thrombosis and embolism			0.0309169945968315	
+17	496	Chronic airway obstruction, not elsewhere classified	0.029111999278888107		0.030129665040411056	0.027615976008586587
+18	2720	Pure hypercholesterolemia		0.02990366078261286	0.0251239831475541	0.025881194343790413
+19	H_age	AGE	0.029765496157109737			
+20	V4364	Hip joint replacement				0.02929250242281705
+21	V5861	Long-term (current) use of anticoagulants				0.028990639876574277
+22	V1582	Personal history of tobacco use			0.026538835180923342	0.02884106672834605
+23	2749	Gout, unspecified			0.028027369571849703	
+24	3659	Unspecified glaucoma				0.027990024163387715
+25	5990	Urinary tract infection, site not specified			0.027269538439810274	0.02612496113963425
+26	73300	Osteoporosis, unspecified				0.026730073504149913
+27	2449	Unspecified acquired hypothyroidism			0.02668094198498875	0.025191339291632177
+28	27651	Dehydration				0.026586783644277603
+29	25000	Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled			0.025664989654906094	0.026522075369954108
+30	2851	Acute posthemorrhagic anemia	0.02646935918740928			0.02603056493960321
+31	32723	Obstructive sleep apnea (adult)(pediatric)		0.026454533255659045		
+32	71590	Osteoarthrosis, unspecified whether generalized or localized, site unspecified				0.026305960090830922
+33	486	Pneumonia, organism unspecified		0.026241780668497087		
+34	V1254	Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits				0.02617136547435075
+35	311	Depressive disorder, not elsewhere classified				0.025755747576244176
+36	27800	Obesity, unspecified			0.025699575022794307	
+37	V103	Personal history of malignant neoplasm of breast			0.025573380892630667	

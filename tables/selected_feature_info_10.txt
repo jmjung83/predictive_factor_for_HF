@@ -1,0 +1,59 @@
+	ICD_code	long_title	AL	G1	G2	G3
+0	n/a	GENDER	O	O	O	O
+33	Z7901	Long term (current) use of anticoagulants	O	O	O	O
+28	K219	Gastro-esophageal reflux disease without esophagitis	O	O	O	O
+24	I4891	Unspecified atrial fibrillation	O	O	O	O
+23	I480	Paroxysmal atrial fibrillation	O	O	O	O
+1	n/a	AGE	O	O	O	O
+21	I252	Old myocardial infarction	O	O	O	O
+20	I2510	Atherosclerotic heart disease of native coronary artery without angina pectoris	O	O	O	O
+30	N179	Acute kidney failure, unspecified	O	O	O	O
+31	N390	Urinary tract infection, site not specified	O	O	O	O
+17	F419	Anxiety disorder, unspecified	O	O	O	O
+16	F329	Major depressive disorder, single episode, unspecified	O	O	O	O
+34	Z7902	Long term (current) use of antithrombotics/antiplatelets	O	O	O	O
+35	Z794	Long term (current) use of insulin	O	O	O	O
+11	E871	Hypo-osmolality and hyponatremia	O	O	O	O
+10	E785	Hyperlipidemia, unspecified	O	O	O	O
+37	Z8673	Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits	O	O	O	O
+38	Z87891	Personal history of nicotine dependence	O	O	O	O
+7	E119	Type 2 diabetes mellitus without complications	O	O	O	O
+5	E039	Hypothyroidism, unspecified	O	O	O	O
+3	D649	Anemia, unspecified	O	O	O	O
+2	D62	Acute posthemorrhagic anemia	O	O	O	O
+26	J449	Chronic obstructive pulmonary disease, unspecified	O	O	O	O
+27	J45909	Unspecified asthma, uncomplicated	O	O	O	
+32	N400	Benign prostatic hyperplasia without lower urinary tract symptoms	O		O	O
+40	Z955	Presence of coronary angioplasty implant and graft	O	O	O	
+47	J189	Pneumonia, unspecified organism	O	O		O
+29	M109	Gout, unspecified	O		O	O
+25	I739	Peripheral vascular disease, unspecified	O		O	O
+22	I350	Nonrheumatic aortic (valve) stenosis	O		O	O
+19	I214	Non-ST elevation (NSTEMI) myocardial infarction	O	O	O	
+18	G4733	Obstructive sleep apnea (adult) (pediatric)	O	O	O	
+15	F17210	Nicotine dependence, cigarettes, uncomplicated	O	O	O	
+4	D696	Thrombocytopenia, unspecified	O	O	O	
+13	E875	Hyperkalemia	O	O	O	
+12	E872	Acidosis	O	O	O	
+9	E7800	Pure hypercholesterolemia, unspecified	O		O	O
+8	E669	Obesity, unspecified	O	O	O	
+6	E1165	Type 2 diabetes mellitus with hyperglycemia	O	O	O	
+46	G8929	Other chronic pain	O	O		
+44	E860	Dehydration		O		O
+39	Z951	Presence of aortocoronary bypass graft	O		O	
+36	Z85828	Personal history of other malignant neoplasm of skin			O	O
+54	H409	Unspecified glaucoma				O
+55	M810	Age-related osteoporosis without current pathological fracture				O
+50	Z8249	Family history of ischemic heart disease and other diseases of the circulatory system		O		
+53	G92	Toxic encephalopathy				O
+56	Z853	Personal history of malignant neoplasm of breast				O
+52	F05	Delirium due to known physiological condition				O
+51	F0390	Unspecified dementia without behavioral disturbance				O
+43	E6601	Morbid (severe) obesity due to excess calories		O		
+49	Z6841	Body mass index (BMI) 40.0-44.9, adult		O		
+48	K5900	Constipation, unspecified		O		
+45	G4700	Insomnia, unspecified		O		
+42	D72829	Elevated white blood cell count, unspecified		O		
+41	A419	Sepsis, unspecified organism		O		
+14	E876	Hypokalemia			O	
+57	Z950	Presence of cardiac pacemaker				O
